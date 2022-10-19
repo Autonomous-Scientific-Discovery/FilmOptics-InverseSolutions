@@ -1,5 +1,5 @@
 # Optical-Inverse-Solutions-
-Extracting Film Thickness and Optical Constants from Spectrophotometric Data by Evolutionary Optimization
+**Extracting Film Thickness and Optical Constants from Spectrophotometric Data by Evolutionary Optimization**
 
 
 **1.** Input Data: These data files contain the spectral data, reflectance (R) and transmittance (T), and the film characteristics, thickness (d) and optical constants (n, k) for various materials. 'TrainTestData.npz' contains fully synthetic data, 'perovData.npz' contains semi-synthetic data, and 'ExpData.npz' contains experimentally measured data. Note that the file: 'Refractive_Index_Library' contains a wide range of references for different refractive index and extinction coefficient profiles.  

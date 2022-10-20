@@ -1,4 +1,4 @@
-# Optical-Inverse-Solutions-
+# InverseSolutions in FilmOptics
 **Extracting Film Thickness and Optical Constants from Spectrophotometric Data by Evolutionary Optimization**
 
 
